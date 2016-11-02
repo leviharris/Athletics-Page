@@ -300,3 +300,158 @@ ul, ol {
 #athletics .athletics-body .athletics-text {
 	font-size: 18px;
 }
+#football {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/football2.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#football .football-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#football .football-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#football .football-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#football .football-body .football-text {
+	font-size: 18px;
+}
+#crosscountry {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("building.png") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#crosscountry .crosscountry-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#crosscountry .crosscountry-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#crosscountry .crosscountry-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#crosscountry .crosscountry-body .crosscountry-text {
+	font-size: 18px;
+}
+#soccer {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("stadium.png") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#soccer .soccer-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#soccer .soccer-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#soccer .soccer-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#soccer .soccer-body .soccer-text {
+	font-size: 18px;
+}
+#gg {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/home/parallax2.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#gg .gg-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#gg .gg-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#gg .gg-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#gg .gg-body .gg-text {
+	font-size: 18px;
+}
+#wrestling {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#wrestling .wrestling-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#wrestling .wrestling-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#wrestling .wrestling-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#wrestling .wrestling-body .wrestling-text {
+	font-size: 18px;
+}
