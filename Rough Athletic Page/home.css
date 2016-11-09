@@ -122,6 +122,7 @@ ul, ol {
 }
 
 /* Navigation */
+.show {display:block;}
 .navbar-custom {
 	padding: 0;
 	border-bottom: 0;
@@ -362,6 +363,99 @@ ul, ol {
 #crosscountry .crosscountry-body .crosscountry-text {
 	font-size: 18px;
 }
+#wtennis {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("building.png") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#wtennis .wtennis-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#wtennis .wtennis-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#wtennis .wtennis-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#wtennis .wtennis-body .wtennis-text {
+	font-size: 18px;
+}
+#girlsg {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("building.png") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#girlsg .girlsg-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#girlsg .girlsg-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#girlsg .girlsg-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#girlsg .girlsg-body .girlsg-text {
+	font-size: 18px;
+}
+#vb {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("building.png") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#vb .vb-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#vb .vb-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#vb .vb-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#vb .vb-body .vb-text {
+	font-size: 18px;
+}
 #soccer {
 	display: table;
 	width: 100%;
@@ -393,37 +487,6 @@ ul, ol {
 #soccer .soccer-body .soccer-text {
 	font-size: 18px;
 }
-#gg {
-	display: table;
-	width: 100%;
-	height: auto;
-	padding: 100px 0;
-	text-align: center;
-	color: #fff;
-	background: url("assets/home/parallax2.jpg") no-repeat center center fixed;
-	background-color: #000;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-}
-#gg .gg-body {
-	display: table-cell;
-	vertical-align: middle;
-}
-#gg .gg-body H1 {
-	font-size: 76px;
-	font-weight: 700;
-	color: rgba(255,255,255,0.8);
-	text-transform: uppercase;
-}
-#gg .gg-body .styled-heading {
-    color: #F0F8FF;
-	text-shadow: 0 4px #111;
-}
-#gg .gg-body .gg-text {
-	font-size: 18px;
-}
 #wrestling {
 	display: table;
 	width: 100%;
@@ -453,5 +516,222 @@ ul, ol {
 	text-shadow: 0 4px #111;
 }
 #wrestling .wrestling-body .wrestling-text {
+	font-size: 18px;
+}
+#mbb {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#mbb .mbb-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#mbb .mbb-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#mbb .mbb-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#mbb .mbb-body .mbb-text {
+	font-size: 18px;
+}
+#wbb {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#wbb .wbb-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#wbb .wbb-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#wbb .wbb-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#wbb .wbb-body .wbb-text {
+	font-size: 18px;
+}
+#bowling {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#bowling .bowling-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#bowling .bowling-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#bowling .bowling-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#bowling .bowling-body .bowling-text {
+	font-size: 18px;
+}
+#baseball {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#baseball .baseball-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#baseball .baseball-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#baseball .baseball-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#baseball .baseball-body .baseball-text {
+	font-size: 18px;
+}
+#softball {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#softball .softball-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#softball .softball-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#softball .softball-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#softball .softball-body .softball-text {
+	font-size: 18px;
+}
+#wsoccer {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#wsoccer .wsoccer-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#wsoccer .wsoccer-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#wsoccer .wsoccer-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#wsoccer .wsoccer-body .wsoccer-text {
+	font-size: 18px;
+}
+#mensgolf {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#mensgolf .mensgolf-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#mensgolf .mensgolf-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#mensgolf .mensgolf-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#mensgolf .mensgolf-body .mensgolf-text {
 	font-size: 18px;
 }
