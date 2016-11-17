@@ -73,6 +73,7 @@ body, html {
     }
 /* CARD END */
 
+
 h1 {
 	font-weight: 700;
 }
@@ -340,6 +341,16 @@ background-color:#222
 }
 
 li.dropdown3:hover ul{
+display: block;}
+
+/*dropdown4submenu*/
+ li.dropdown4 ul {
+display:none;
+position: absolute; right: 100%; top:0;
+background-color:#222
+}
+
+li.dropdown4:hover ul{
 display: block;}
 
 /* Athletics */
@@ -806,5 +817,36 @@ display: block;}
 	text-shadow: 0 4px #111;
 }
 #mensgolf .mensgolf-body .mensgolf-text {
+	font-size: 18px;
+}
+#fcoach {
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url("assets/athletics/wrestling.jpg") no-repeat center center fixed;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+#fcoach .fcoach-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+#fcoach .fcoach-body H1 {
+	font-size: 76px;
+	font-weight: 700;
+	color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+}
+#fcoach .fcoach-body .styled-heading {
+    color: #F0F8FF;
+	text-shadow: 0 4px #111;
+}
+#fcoach .fcoach-body .fcoach-text {
 	font-size: 18px;
 }
